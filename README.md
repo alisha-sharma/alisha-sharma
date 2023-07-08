@@ -5,7 +5,7 @@ I am a software developer with 3+ years of experience. I have experience working
 Technologies: C#, .Net, Java, SpringBoot, Laravel, PHP, JavaScript, jQuery, React.js, Machine Learning
 
 - 🎓 I am a computer science graduate student. 
-- 🔭 I’m currently working on multiple web applications at [Myaamia Center] (https://miamioh.edu/myaamia-center/)
+- 🔭 I’m currently working on multiple web applications at [Myaamia Center](https://miamioh.edu/myaamia-center/)
 - 🌱 I’m currently learning React.js 
 - 📫 Reach me on [alisha.sharma1280@gmail.com](mailto:alisha.sharma1280@gmail.com)
 - 😄 Pronouns: she/her 
